@@ -1,0 +1,25 @@
+body {
+
+
+  background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_2128,w_3155,x_0,y_534/v1554928552/shape/mentalfloss/540093-istock-514343279.jpg?itok=bMyDmYZ2);
+  background-size: 50%;
+}
+
+div.bannerDiv
+{
+    background-color: #2E4885;
+
+
+}
+h1
+{   padding-left: 5px;
+    font-style: italic;
+}
+div.bigDiv
+{
+    background: #FFFFFF;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+body {
+
+    background: #93A8AC;
+}
+
+div.mainContainer
+{
+    height: 200px;
+    width: 50%;
+    background-color: #D7CEB2;
+    border: 2px solid #000000;
+    position: relative;
+
+}
+div.enterData
+{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+
+
+}
+div.result
+{
+  padding-top: 20px;
+}
+.frog
+  {
+    position: absolute;
+    top: 40px;
+    left: 350px;
+  }
